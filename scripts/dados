@@ -1,0 +1,1484 @@
+{
+  "UsersData": {
+    "H0CDc7zifcOAEfQCcmxp3DdqYHx1": {
+      "readings": {
+        "1654619773": {
+          "GPS_Date": "",
+          "GPS_Latitude": "",
+          "GPS_Longitude": "",
+          "GPS_Time": "",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:32:4",
+          "timestamp": "1654619773"
+        },
+        "1654619834": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900089",
+          "GPS_Longitude": "-44.024632",
+          "GPS_Time": "13:37:14.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:33:5",
+          "timestamp": "1654619834"
+        },
+        "1654619894": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900055",
+          "GPS_Longitude": "-44.024616",
+          "GPS_Time": "13:38:14.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:34:5",
+          "timestamp": "1654619894"
+        },
+        "1654619955": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900089",
+          "GPS_Longitude": "-44.024551",
+          "GPS_Time": "13:39:15.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:35:6",
+          "timestamp": "1654619955"
+        },
+        "1654620016": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900097",
+          "GPS_Longitude": "-44.024658",
+          "GPS_Time": "13:40:16.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:36:7",
+          "timestamp": "1654620016"
+        },
+        "1654620076": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900085",
+          "GPS_Longitude": "-44.024689",
+          "GPS_Time": "13:41:16.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:37:7",
+          "timestamp": "1654620076"
+        },
+        "1654620137": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900120",
+          "GPS_Longitude": "-44.024742",
+          "GPS_Time": "13:42:17.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:38:8",
+          "timestamp": "1654620137"
+        },
+        "1654620198": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900139",
+          "GPS_Longitude": "-44.024780",
+          "GPS_Time": "13:43:18.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:39:9",
+          "timestamp": "1654620198"
+        },
+        "1654620259": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900108",
+          "GPS_Longitude": "-44.024761",
+          "GPS_Time": "13:44:19.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:40:10",
+          "timestamp": "1654620259"
+        },
+        "1654620320": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900080",
+          "GPS_Longitude": "-44.024746",
+          "GPS_Time": "13:45:20.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:41:11",
+          "timestamp": "1654620320"
+        },
+        "1654620380": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900150",
+          "GPS_Longitude": "-44.024719",
+          "GPS_Time": "13:46:20.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:42:11",
+          "timestamp": "1654620380"
+        },
+        "1654620441": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900114",
+          "GPS_Longitude": "-44.024696",
+          "GPS_Time": "13:47:21.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:43:12",
+          "timestamp": "1654620441"
+        },
+        "1654620502": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900133",
+          "GPS_Longitude": "-44.024742",
+          "GPS_Time": "13:48:22.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:44:13",
+          "timestamp": "1654620502"
+        },
+        "1654620563": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900105",
+          "GPS_Longitude": "-44.024708",
+          "GPS_Time": "13:49:23.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:45:14",
+          "timestamp": "1654620563"
+        },
+        "1654620624": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900063",
+          "GPS_Longitude": "-44.024750",
+          "GPS_Time": "13:50:24.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:46:15",
+          "timestamp": "1654620624"
+        },
+        "1654620684": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900013",
+          "GPS_Longitude": "-44.024712",
+          "GPS_Time": "13:51:24.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:47:15",
+          "timestamp": "1654620684"
+        },
+        "1654620745": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900057",
+          "GPS_Longitude": "-44.024864",
+          "GPS_Time": "13:52:25.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:48:16",
+          "timestamp": "1654620745"
+        },
+        "1654620805": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900145",
+          "GPS_Longitude": "-44.024876",
+          "GPS_Time": "13:53:25.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:49:16",
+          "timestamp": "1654620805"
+        },
+        "1654620866": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900089",
+          "GPS_Longitude": "-44.024784",
+          "GPS_Time": "13:54:26.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:50:17",
+          "timestamp": "1654620866"
+        },
+        "1654620927": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900089",
+          "GPS_Longitude": "-44.024841",
+          "GPS_Time": "13:55:27.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:51:18",
+          "timestamp": "1654620927"
+        },
+        "1654620987": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900074",
+          "GPS_Longitude": "-44.024929",
+          "GPS_Time": "13:56:27.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:52:18",
+          "timestamp": "1654620987"
+        },
+        "1654621048": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900082",
+          "GPS_Longitude": "-44.024738",
+          "GPS_Time": "13:57:28.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:53:19",
+          "timestamp": "1654621048"
+        },
+        "1654621107": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900078",
+          "GPS_Longitude": "-44.024807",
+          "GPS_Time": "13:58:28.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:54:19",
+          "timestamp": "1654621107"
+        },
+        "1654621168": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900082",
+          "GPS_Longitude": "-44.024818",
+          "GPS_Time": "13:59:28.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:55:19",
+          "timestamp": "1654621168"
+        },
+        "1654621229": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900087",
+          "GPS_Longitude": "-44.024773",
+          "GPS_Time": "14:00:29.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:56:20",
+          "timestamp": "1654621229"
+        },
+        "1654621289": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900091",
+          "GPS_Longitude": "-44.024792",
+          "GPS_Time": "14:01:29.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:57:20",
+          "timestamp": "1654621289"
+        },
+        "1654621350": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900091",
+          "GPS_Longitude": "-44.024742",
+          "GPS_Time": "14:02:30.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:58:21",
+          "timestamp": "1654621350"
+        },
+        "1654621411": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900097",
+          "GPS_Longitude": "-44.024769",
+          "GPS_Time": "14:03:31.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "13:59:22",
+          "timestamp": "1654621411"
+        },
+        "1654621471": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900131",
+          "GPS_Longitude": "-44.024811",
+          "GPS_Time": "14:04:31.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:0:22",
+          "timestamp": "1654621471"
+        },
+        "1654621531": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900108",
+          "GPS_Longitude": "-44.024807",
+          "GPS_Time": "14:05:31.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:1:22",
+          "timestamp": "1654621531"
+        },
+        "1654621592": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900137",
+          "GPS_Longitude": "-44.024799",
+          "GPS_Time": "14:06:32.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:2:23",
+          "timestamp": "1654621592"
+        },
+        "1654621653": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900118",
+          "GPS_Longitude": "-44.024796",
+          "GPS_Time": "14:07:32.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:3:23",
+          "timestamp": "1654621653"
+        },
+        "1654621712": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900126",
+          "GPS_Longitude": "-44.024761",
+          "GPS_Time": "14:08:32.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:4:23",
+          "timestamp": "1654621712"
+        },
+        "1654621774": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900110",
+          "GPS_Longitude": "-44.024773",
+          "GPS_Time": "14:09:34.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:5:25",
+          "timestamp": "1654621774"
+        },
+        "1654621835": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900139",
+          "GPS_Longitude": "-44.024769",
+          "GPS_Time": "14:10:34.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:6:25",
+          "timestamp": "1654621835"
+        },
+        "1654621896": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900074",
+          "GPS_Longitude": "-44.024780",
+          "GPS_Time": "14:11:35.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:7:26",
+          "timestamp": "1654621896"
+        },
+        "1654621955": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900095",
+          "GPS_Longitude": "-44.024750",
+          "GPS_Time": "14:12:35.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:8:26",
+          "timestamp": "1654621955"
+        },
+        "1654622015": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900101",
+          "GPS_Longitude": "-44.024750",
+          "GPS_Time": "14:13:35.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:9:26",
+          "timestamp": "1654622015"
+        },
+        "1654622076": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900087",
+          "GPS_Longitude": "-44.024788",
+          "GPS_Time": "14:14:36.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:10:27",
+          "timestamp": "1654622076"
+        },
+        "1654622137": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900076",
+          "GPS_Longitude": "-44.024761",
+          "GPS_Time": "14:15:37.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:11:28",
+          "timestamp": "1654622137"
+        },
+        "1654622198": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900110",
+          "GPS_Longitude": "-44.024761",
+          "GPS_Time": "14:16:38.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:12:29",
+          "timestamp": "1654622198"
+        },
+        "1654622259": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900089",
+          "GPS_Longitude": "-44.024666",
+          "GPS_Time": "14:17:39.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:13:30",
+          "timestamp": "1654622259"
+        },
+        "1654622319": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900023",
+          "GPS_Longitude": "-44.024681",
+          "GPS_Time": "14:18:39.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:14:30",
+          "timestamp": "1654622319"
+        },
+        "1654622380": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900055",
+          "GPS_Longitude": "-44.024628",
+          "GPS_Time": "14:19:40.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:15:31",
+          "timestamp": "1654622380"
+        },
+        "1654622441": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900076",
+          "GPS_Longitude": "-44.024677",
+          "GPS_Time": "14:20:41.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:16:32",
+          "timestamp": "1654622441"
+        },
+        "1654622502": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900093",
+          "GPS_Longitude": "-44.024719",
+          "GPS_Time": "14:21:42.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:17:33",
+          "timestamp": "1654622502"
+        },
+        "1654622563": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900084",
+          "GPS_Longitude": "-44.024696",
+          "GPS_Time": "14:22:43.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:18:34",
+          "timestamp": "1654622563"
+        },
+        "1654622623": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900072",
+          "GPS_Longitude": "-44.024624",
+          "GPS_Time": "14:23:43.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:19:34",
+          "timestamp": "1654622623"
+        },
+        "1654622684": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900066",
+          "GPS_Longitude": "-44.024670",
+          "GPS_Time": "14:24:44.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:20:35",
+          "timestamp": "1654622684"
+        },
+        "1654622743": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900080",
+          "GPS_Longitude": "-44.024677",
+          "GPS_Time": "14:25:44.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:21:35",
+          "timestamp": "1654622743"
+        },
+        "1654622805": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900080",
+          "GPS_Longitude": "-44.024700",
+          "GPS_Time": "14:26:45.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:22:36",
+          "timestamp": "1654622805"
+        },
+        "1654622865": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900042",
+          "GPS_Longitude": "-44.024681",
+          "GPS_Time": "14:27:45.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:23:36",
+          "timestamp": "1654622865"
+        },
+        "1654622925": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.899963",
+          "GPS_Longitude": "-44.024715",
+          "GPS_Time": "14:28:45.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:24:36",
+          "timestamp": "1654622925"
+        },
+        "1654622986": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.899799",
+          "GPS_Longitude": "-44.024509",
+          "GPS_Time": "14:29:46.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:25:37",
+          "timestamp": "1654622986"
+        },
+        "1654623047": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900000",
+          "GPS_Longitude": "-44.023781",
+          "GPS_Time": "14:30:47.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:26:38",
+          "timestamp": "1654623047"
+        },
+        "1654623106": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900560",
+          "GPS_Longitude": "-44.023140",
+          "GPS_Time": "14:31:47.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:27:38",
+          "timestamp": "1654623106"
+        },
+        "1654623169": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.901224",
+          "GPS_Longitude": "-44.022476",
+          "GPS_Time": "14:32:48.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:28:39",
+          "timestamp": "1654623169"
+        },
+        "1654623229": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.901955",
+          "GPS_Longitude": "-44.021778",
+          "GPS_Time": "14:33:49.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:29:40",
+          "timestamp": "1654623229"
+        },
+        "1654623289": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.901880",
+          "GPS_Longitude": "-44.020996",
+          "GPS_Time": "14:34:49.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:30:40",
+          "timestamp": "1654623289"
+        },
+        "1654623348": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902071",
+          "GPS_Longitude": "-44.020290",
+          "GPS_Time": "14:35:49.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:31:40",
+          "timestamp": "1654623348"
+        },
+        "1654623410": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902330",
+          "GPS_Longitude": "-44.019665",
+          "GPS_Time": "14:36:50.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:32:41",
+          "timestamp": "1654623410"
+        },
+        "1654623470": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902624",
+          "GPS_Longitude": "-44.019596",
+          "GPS_Time": "14:37:50.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:33:41",
+          "timestamp": "1654623470"
+        },
+        "1654623531": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902584",
+          "GPS_Longitude": "-44.019558",
+          "GPS_Time": "14:38:51.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:34:42",
+          "timestamp": "1654623531"
+        },
+        "1654623591": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902624",
+          "GPS_Longitude": "-44.019550",
+          "GPS_Time": "14:39:51.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:35:42",
+          "timestamp": "1654623591"
+        },
+        "1654623651": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902597",
+          "GPS_Longitude": "-44.019558",
+          "GPS_Time": "14:40:51.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:36:42",
+          "timestamp": "1654623651"
+        },
+        "1654623711": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902586",
+          "GPS_Longitude": "-44.019573",
+          "GPS_Time": "14:41:51.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:37:42",
+          "timestamp": "1654623711"
+        },
+        "1654623772": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902607",
+          "GPS_Longitude": "-44.019604",
+          "GPS_Time": "14:42:52.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:38:43",
+          "timestamp": "1654623772"
+        },
+        "1654623831": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902592",
+          "GPS_Longitude": "-44.019581",
+          "GPS_Time": "14:43:52.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:39:43",
+          "timestamp": "1654623831"
+        },
+        "1654623893": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902607",
+          "GPS_Longitude": "-44.019600",
+          "GPS_Time": "14:44:53.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:40:44",
+          "timestamp": "1654623893"
+        },
+        "1654623953": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902603",
+          "GPS_Longitude": "-44.019619",
+          "GPS_Time": "14:45:53.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:41:44",
+          "timestamp": "1654623953"
+        },
+        "1654624014": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.900625",
+          "GPS_Longitude": "-44.018234",
+          "GPS_Time": "14:46:54.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:42:45",
+          "timestamp": "1654624014"
+        },
+        "1654624075": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.897139",
+          "GPS_Longitude": "-44.015560",
+          "GPS_Time": "14:47:55.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:43:46",
+          "timestamp": "1654624075"
+        },
+        "1654624135": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.895954",
+          "GPS_Longitude": "-44.013493",
+          "GPS_Time": "14:48:55.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:44:46",
+          "timestamp": "1654624135"
+        },
+        "1654624196": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.894951",
+          "GPS_Longitude": "-44.010040",
+          "GPS_Time": "14:49:56.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:45:47",
+          "timestamp": "1654624196"
+        },
+        "1654624257": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.894325",
+          "GPS_Longitude": "-44.009567",
+          "GPS_Time": "14:50:57.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:46:48",
+          "timestamp": "1654624257"
+        },
+        "1654624318": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.893932",
+          "GPS_Longitude": "-44.009106",
+          "GPS_Time": "14:51:58.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:47:49",
+          "timestamp": "1654624318"
+        },
+        "1654624379": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.895187",
+          "GPS_Longitude": "-44.008606",
+          "GPS_Time": "14:52:59.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:48:50",
+          "timestamp": "1654624379"
+        },
+        "1654624438": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.897600",
+          "GPS_Longitude": "-44.007008",
+          "GPS_Time": "14:53:59.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:49:50",
+          "timestamp": "1654624438"
+        },
+        "1654624499": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.898457",
+          "GPS_Longitude": "-44.005878",
+          "GPS_Time": "14:54:59.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:50:50",
+          "timestamp": "1654624499"
+        },
+        "1654624560": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.901186",
+          "GPS_Longitude": "-44.004478",
+          "GPS_Time": "14:56:00.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:51:51",
+          "timestamp": "1654624560"
+        },
+        "1654624620": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.902424",
+          "GPS_Longitude": "-44.003860",
+          "GPS_Time": "14:57:00.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:52:51",
+          "timestamp": "1654624620"
+        },
+        "1654624681": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.904661",
+          "GPS_Longitude": "-44.001678",
+          "GPS_Time": "14:58:01.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:53:52",
+          "timestamp": "1654624681"
+        },
+        "1654624742": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.906559",
+          "GPS_Longitude": "-43.999489",
+          "GPS_Time": "14:59:02.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:54:53",
+          "timestamp": "1654624742"
+        },
+        "1654624802": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.910040",
+          "GPS_Longitude": "-43.998421",
+          "GPS_Time": "15:00:02.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:55:53",
+          "timestamp": "1654624802"
+        },
+        "1654624863": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.911089",
+          "GPS_Longitude": "-43.998074",
+          "GPS_Time": "15:01:03.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:56:54",
+          "timestamp": "1654624863"
+        },
+        "1654624924": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.911947",
+          "GPS_Longitude": "-43.994793",
+          "GPS_Time": "15:02:04.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:57:55",
+          "timestamp": "1654624924"
+        },
+        "1654624984": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.912512",
+          "GPS_Longitude": "-43.994255",
+          "GPS_Time": "15:03:04.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:58:55",
+          "timestamp": "1654624984"
+        },
+        "1654625045": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.913240",
+          "GPS_Longitude": "-43.994034",
+          "GPS_Time": "15:04:05.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "14:59:56",
+          "timestamp": "1654625045"
+        },
+        "1654625105": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.913979",
+          "GPS_Longitude": "-43.991009",
+          "GPS_Time": "15:05:05.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:0:56",
+          "timestamp": "1654625105"
+        },
+        "1654625166": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.914152",
+          "GPS_Longitude": "-43.989616",
+          "GPS_Time": "15:06:06.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:1:57",
+          "timestamp": "1654625166"
+        },
+        "1654625226": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.913729",
+          "GPS_Longitude": "-43.986824",
+          "GPS_Time": "15:07:06.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:2:57",
+          "timestamp": "1654625226"
+        },
+        "1654625286": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.914183",
+          "GPS_Longitude": "-43.982624",
+          "GPS_Time": "15:08:06.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:3:57",
+          "timestamp": "1654625286"
+        },
+        "1654625347": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.913647",
+          "GPS_Longitude": "-43.980713",
+          "GPS_Time": "15:09:07.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:4:58",
+          "timestamp": "1654625347"
+        },
+        "1654625407": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.913704",
+          "GPS_Longitude": "-43.977333",
+          "GPS_Time": "15:10:07.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:5:58",
+          "timestamp": "1654625407"
+        },
+        "1654625468": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.913794",
+          "GPS_Longitude": "-43.974709",
+          "GPS_Time": "15:11:08.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:6:59",
+          "timestamp": "1654625468"
+        },
+        "1654625528": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.913897",
+          "GPS_Longitude": "-43.972027",
+          "GPS_Time": "15:12:08.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:7:59",
+          "timestamp": "1654625528"
+        },
+        "1654625589": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.913330",
+          "GPS_Longitude": "-43.969723",
+          "GPS_Time": "15:13:09.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:9:0",
+          "timestamp": "1654625589"
+        },
+        "1654625649": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.911682",
+          "GPS_Longitude": "-43.965477",
+          "GPS_Time": "15:14:09.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:10:0",
+          "timestamp": "1654625649"
+        },
+        "1654625709": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.911161",
+          "GPS_Longitude": "-43.959885",
+          "GPS_Time": "15:15:09.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:11:0",
+          "timestamp": "1654625709"
+        },
+        "1654625770": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.909401",
+          "GPS_Longitude": "-43.959080",
+          "GPS_Time": "15:16:10.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:12:1",
+          "timestamp": "1654625770"
+        },
+        "1654625830": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.909063",
+          "GPS_Longitude": "-43.958973",
+          "GPS_Time": "15:17:10.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:13:1",
+          "timestamp": "1654625830"
+        },
+        "1654625891": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.908602",
+          "GPS_Longitude": "-43.958870",
+          "GPS_Time": "15:18:11.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:14:2",
+          "timestamp": "1654625891"
+        },
+        "1654625950": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.907982",
+          "GPS_Longitude": "-43.959682",
+          "GPS_Time": "15:19:11.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:15:2",
+          "timestamp": "1654625950"
+        },
+        "1654626011": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.907490",
+          "GPS_Longitude": "-43.962936",
+          "GPS_Time": "15:20:11.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:16:2",
+          "timestamp": "1654626011"
+        },
+        "1654626070": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.903717",
+          "GPS_Longitude": "-43.965389",
+          "GPS_Time": "15:21:11.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:17:2",
+          "timestamp": "1654626070"
+        },
+        "1654626131": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.901312",
+          "GPS_Longitude": "-43.966988",
+          "GPS_Time": "15:22:11.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:18:2",
+          "timestamp": "1654626131"
+        },
+        "1654626191": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.898724",
+          "GPS_Longitude": "-43.968834",
+          "GPS_Time": "15:23:11.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:19:2",
+          "timestamp": "1654626191"
+        },
+        "1654626252": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.894983",
+          "GPS_Longitude": "-43.968723",
+          "GPS_Time": "15:24:12.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:20:3",
+          "timestamp": "1654626252"
+        },
+        "1654626312": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.891262",
+          "GPS_Longitude": "-43.968819",
+          "GPS_Time": "15:25:12.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:21:3",
+          "timestamp": "1654626312"
+        },
+        "1654626373": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.889402",
+          "GPS_Longitude": "-43.969433",
+          "GPS_Time": "15:26:13.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:22:4",
+          "timestamp": "1654626373"
+        },
+        "1654626434": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.892284",
+          "GPS_Longitude": "-43.968536",
+          "GPS_Time": "15:27:14.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:23:5",
+          "timestamp": "1654626434"
+        },
+        "1654626494": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.891459",
+          "GPS_Longitude": "-43.966721",
+          "GPS_Time": "15:28:14.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:24:5",
+          "timestamp": "1654626494"
+        },
+        "1654626555": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.891253",
+          "GPS_Longitude": "-43.966393",
+          "GPS_Time": "15:29:15.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:25:6",
+          "timestamp": "1654626555"
+        },
+        "1654626615": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.887960",
+          "GPS_Longitude": "-43.968182",
+          "GPS_Time": "15:30:15.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:26:6",
+          "timestamp": "1654626615"
+        },
+        "1654626674": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.884314",
+          "GPS_Longitude": "-43.973530",
+          "GPS_Time": "15:31:15.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:27:6",
+          "timestamp": "1654626674"
+        },
+        "1654626736": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.877031",
+          "GPS_Longitude": "-43.976612",
+          "GPS_Time": "15:32:16.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:28:7",
+          "timestamp": "1654626736"
+        },
+        "1654626797": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876854",
+          "GPS_Longitude": "-43.976166",
+          "GPS_Time": "15:33:17.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:29:8",
+          "timestamp": "1654626797"
+        },
+        "1654626860": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876570",
+          "GPS_Longitude": "-43.975826",
+          "GPS_Time": "15:34:18.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:30:9",
+          "timestamp": "1654626860"
+        },
+        "1654626920": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876564",
+          "GPS_Longitude": "-43.975822",
+          "GPS_Time": "15:35:20.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:31:11",
+          "timestamp": "1654626920"
+        },
+        "1654626981": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876556",
+          "GPS_Longitude": "-43.975803",
+          "GPS_Time": "15:36:21.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:32:12",
+          "timestamp": "1654626981"
+        },
+        "1654627041": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876564",
+          "GPS_Longitude": "-43.975819",
+          "GPS_Time": "15:37:21.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:33:12",
+          "timestamp": "1654627041"
+        },
+        "1654627102": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876566",
+          "GPS_Longitude": "-43.975838",
+          "GPS_Time": "15:38:22.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:34:13",
+          "timestamp": "1654627102"
+        },
+        "1654627163": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876570",
+          "GPS_Longitude": "-43.975838",
+          "GPS_Time": "15:39:23.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:35:14",
+          "timestamp": "1654627163"
+        },
+        "1654627223": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876554",
+          "GPS_Longitude": "-43.975857",
+          "GPS_Time": "15:40:23.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:36:14",
+          "timestamp": "1654627223"
+        },
+        "1654627284": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876556",
+          "GPS_Longitude": "-43.975849",
+          "GPS_Time": "15:41:24.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:37:15",
+          "timestamp": "1654627284"
+        },
+        "1654627344": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876558",
+          "GPS_Longitude": "-43.975845",
+          "GPS_Time": "15:42:24.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:38:15",
+          "timestamp": "1654627344"
+        },
+        "1654627404": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876562",
+          "GPS_Longitude": "-43.975826",
+          "GPS_Time": "15:43:24.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:39:15",
+          "timestamp": "1654627404"
+        },
+        "1654627465": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876556",
+          "GPS_Longitude": "-43.975849",
+          "GPS_Time": "15:44:25.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:40:16",
+          "timestamp": "1654627465"
+        },
+        "1654627526": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876545",
+          "GPS_Longitude": "-43.975838",
+          "GPS_Time": "15:45:26.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:41:17",
+          "timestamp": "1654627526"
+        },
+        "1654627586": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.876583",
+          "GPS_Longitude": "-43.975815",
+          "GPS_Time": "15:46:26.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:42:17",
+          "timestamp": "1654627586"
+        },
+        "1654627647": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.874372",
+          "GPS_Longitude": "-43.974552",
+          "GPS_Time": "15:47:27.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:43:18",
+          "timestamp": "1654627647"
+        },
+        "1654627707": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.872522",
+          "GPS_Longitude": "-43.972252",
+          "GPS_Time": "15:48:27.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:44:18",
+          "timestamp": "1654627707"
+        },
+        "1654627768": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870995",
+          "GPS_Longitude": "-43.969627",
+          "GPS_Time": "15:49:28.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:45:19",
+          "timestamp": "1654627768"
+        },
+        "1654627832": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869846",
+          "GPS_Longitude": "-43.967358",
+          "GPS_Time": "15:50:28.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:46:19",
+          "timestamp": "1654627832"
+        },
+        "1654627889": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870510",
+          "GPS_Longitude": "-43.965214",
+          "GPS_Time": "15:51:29.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:47:20",
+          "timestamp": "1654627889"
+        },
+        "1654627949": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.872055",
+          "GPS_Longitude": "-43.965363",
+          "GPS_Time": "15:52:29.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:48:20",
+          "timestamp": "1654627949"
+        },
+        "1654628010": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.874096",
+          "GPS_Longitude": "-43.967445",
+          "GPS_Time": "15:53:30.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:49:21",
+          "timestamp": "1654628010"
+        },
+        "1654628071": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.871796",
+          "GPS_Longitude": "-43.965260",
+          "GPS_Time": "15:54:31.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:50:22",
+          "timestamp": "1654628071"
+        },
+        "1654628132": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869516",
+          "GPS_Longitude": "-43.963959",
+          "GPS_Time": "15:55:32.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:51:23",
+          "timestamp": "1654628132"
+        },
+        "1654628191": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869589",
+          "GPS_Longitude": "-43.963455",
+          "GPS_Time": "15:56:32.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:52:23",
+          "timestamp": "1654628191"
+        },
+        "1654628253": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869709",
+          "GPS_Longitude": "-43.963463",
+          "GPS_Time": "15:57:33.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:53:24",
+          "timestamp": "1654628253"
+        },
+        "1654628314": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870037",
+          "GPS_Longitude": "-43.963776",
+          "GPS_Time": "15:58:34.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:54:25",
+          "timestamp": "1654628314"
+        },
+        "1654628373": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870214",
+          "GPS_Longitude": "-43.963818",
+          "GPS_Time": "15:59:34.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:55:25",
+          "timestamp": "1654628373"
+        },
+        "1654628434": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869993",
+          "GPS_Longitude": "-43.963745",
+          "GPS_Time": "16:00:34.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:56:25",
+          "timestamp": "1654628434"
+        },
+        "1654628493": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869720",
+          "GPS_Longitude": "-43.963394",
+          "GPS_Time": "16:01:34.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:57:25",
+          "timestamp": "1654628493"
+        },
+        "1654628555": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869822",
+          "GPS_Longitude": "-43.963131",
+          "GPS_Time": "16:02:35.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:58:26",
+          "timestamp": "1654628555"
+        },
+        "1654628615": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869659",
+          "GPS_Longitude": "-43.963024",
+          "GPS_Time": "16:03:35.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "15:59:26",
+          "timestamp": "1654628615"
+        },
+        "1654628676": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869888",
+          "GPS_Longitude": "-43.963238",
+          "GPS_Time": "16:04:36.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:0:27",
+          "timestamp": "1654628676"
+        },
+        "1654628736": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869911",
+          "GPS_Longitude": "-43.963165",
+          "GPS_Time": "16:05:36.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:1:27",
+          "timestamp": "1654628736"
+        },
+        "1654628797": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869732",
+          "GPS_Longitude": "-43.963074",
+          "GPS_Time": "16:06:37.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:2:28",
+          "timestamp": "1654628797"
+        },
+        "1654628858": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869616",
+          "GPS_Longitude": "-43.962540",
+          "GPS_Time": "16:07:38.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:3:29",
+          "timestamp": "1654628858"
+        },
+        "1654628919": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869759",
+          "GPS_Longitude": "-43.963058",
+          "GPS_Time": "16:08:39.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:4:30",
+          "timestamp": "1654628919"
+        },
+        "1654628980": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869862",
+          "GPS_Longitude": "-43.962864",
+          "GPS_Time": "16:09:40.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:5:31",
+          "timestamp": "1654628980"
+        },
+        "1654629040": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870085",
+          "GPS_Longitude": "-43.962772",
+          "GPS_Time": "16:10:40.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:6:31",
+          "timestamp": "1654629040"
+        },
+        "1654629100": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870024",
+          "GPS_Longitude": "-43.962776",
+          "GPS_Time": "16:11:40.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:7:31",
+          "timestamp": "1654629100"
+        },
+        "1654629161": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869709",
+          "GPS_Longitude": "-43.963337",
+          "GPS_Time": "16:12:41.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:8:32",
+          "timestamp": "1654629161"
+        },
+        "1654629222": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869789",
+          "GPS_Longitude": "-43.963577",
+          "GPS_Time": "16:13:42.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:9:33",
+          "timestamp": "1654629222"
+        },
+        "1654629283": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870003",
+          "GPS_Longitude": "-43.963867",
+          "GPS_Time": "16:14:43.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:10:34",
+          "timestamp": "1654629283"
+        },
+        "1654629343": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869911",
+          "GPS_Longitude": "-43.963993",
+          "GPS_Time": "16:15:43.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:11:34",
+          "timestamp": "1654629343"
+        },
+        "1654629403": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869938",
+          "GPS_Longitude": "-43.963963",
+          "GPS_Time": "16:16:43.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:12:34",
+          "timestamp": "1654629403"
+        },
+        "1654629463": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.869974",
+          "GPS_Longitude": "-43.963902",
+          "GPS_Time": "16:17:43.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:13:34",
+          "timestamp": "1654629463"
+        },
+        "1654629524": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870018",
+          "GPS_Longitude": "-43.963844",
+          "GPS_Time": "16:18:44.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:14:35",
+          "timestamp": "1654629524"
+        },
+        "1654629583": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870056",
+          "GPS_Longitude": "-43.963734",
+          "GPS_Time": "16:19:44.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:15:35",
+          "timestamp": "1654629583"
+        },
+        "1654629644": {
+          "GPS_Date": "07/06/2022",
+          "GPS_Latitude": "-19.870056",
+          "GPS_Longitude": "-43.963734",
+          "GPS_Time": "16:20:44.00",
+          "RTC_Date": "7/6/2022",
+          "RTC_Time": "16:16:35",
+          "timestamp": "1654629644"
+        }
+      }
+    }
+  }
+}
