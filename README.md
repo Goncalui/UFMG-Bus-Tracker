@@ -4,7 +4,7 @@ Atualmente o sistema está sendo desenvolvido para visualização em tempo real 
 
 ## Tracker em ação
 
-![Demo](https://goncalui.github.io/UFMG-Bus-Tracker//components/Tracker.png)
+![Demo](https://goncalui.github.io/UFMG-Bus-Tracker/components/Tracker.png)
 
 ## Building and Running UBT Locally
 
